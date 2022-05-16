@@ -1,11 +1,7 @@
 <h1 align="center">Hey 👋, I'm Adam</h1>
 <h3 align="center">A detail-obsessed front end developer who loves to build and make things work.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamdotjs&label=Profile%20views&color=0e75b6&style=flat" alt="adamdotjs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamdotjs" alt="adamdotjs" /></a> </p>
-
-- 🌱 I’m currently learning **TypeScript and more React**
+- 🌱 I’m currently learning **TypeScript and a deeper dive into React/JS**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
