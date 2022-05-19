@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 My personal site is [adamjs.dev](adamjs.dev)
+- 👨‍💻 My personal site is [https://adamjs.dev](adamjs.dev)
 
 - 💬 Ask me about **anything! I'll do my best to help.**
 
