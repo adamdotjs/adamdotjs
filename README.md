@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything! I'll do my best to help.**
 
-- [See my Gists](https://gist.github.com/adamdotjs)
+- ✂️ [See my Gists](https://gist.github.com/adamdotjs)
 
 - 📫 How to reach me **adamdotjs@gmail.com**
 
