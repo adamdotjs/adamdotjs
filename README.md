@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **anything! I'll do my best to help.**
 
+- [See my Gists](https://gist.github.com/adamdotjs)
+
 - 📫 How to reach me **adamdotjs@gmail.com**
 
 - ⚡ Fun fact **I'm a cat lover, life-long car enthusiast and music obsessive (spotify said I listened for 2,000 hours last year... oops)**
