@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Adam 👋</h1>
-<h3 align="center">I'm a front end developer who loves to build and make things work.</h3>
+<h3 align="center">I'm a full stack engineer who loves to build and make things work.</h3>
 
 - 🌱 I’m currently learning **TypeScript and a deeper dive into React/JS**
 
