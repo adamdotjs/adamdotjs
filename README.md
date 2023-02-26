@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Adam 👋</h1>
-<h3 align="center">I'm a full stack engineer who loves to build and make things work.</h3>
+<h3 align="center">I'm a full stack web developer who loves to build and make things work.</h3>
 
 - 🌱 I’m currently learning **TypeScript and a deeper dive into React/JS**
 
@@ -10,8 +10,6 @@
 - ✂️ [See my Gists](https://gist.github.com/adamdotjs)
 
 - 📫 How to reach me **adamdotjs@gmail.com**
-
-- ⚡ Fun fact **I'm a cat lover, life-long car enthusiast and music obsessive (spotify said I listened for 2,000 hours last year... oops)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
